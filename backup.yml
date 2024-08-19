@@ -1,6 +1,6 @@
 ---
 - name: Backup Configs
-  hosts: 10.20.20.145
+  hosts: home
   gather_facts: false
   connection: network_cli
   
