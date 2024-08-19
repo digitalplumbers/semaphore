@@ -1,5 +1,5 @@
 ---
-- hosts: Cisco_Devices
+- hosts: home
 gather_facts: false
   connection: network_cli
 tasks:
