@@ -1,6 +1,6 @@
 ---
 - name: Backup Configs
-  hosts: home
+  hosts: home_lab_all
   gather_facts: false
   connection: network_cli
   
